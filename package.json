@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MaciejPrzybylo/lfw111x/issues"
   },
-  "homepage": "https://github.com/MaciejPrzybylo/lfw111x#readme"
+  "homepage": "https://github.com/MaciejPrzybylo/lfw111x#readme",
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
 }
