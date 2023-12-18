@@ -1,0 +1,19 @@
+{
+  "name": "nodelfw11x",
+  "version": "1.0.0",
+  "description": "Node_JS_training_lfc111x",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaciejPrzybylo/lfw111x.git"
+  },
+  "author": "Maciej Przybylo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaciejPrzybylo/lfw111x/issues"
+  },
+  "homepage": "https://github.com/MaciejPrzybylo/lfw111x#readme"
+}
